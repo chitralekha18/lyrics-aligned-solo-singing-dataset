@@ -1,6 +1,6 @@
 # Lyrics-aligned solo singing dataset
 
-Link to the dataset: 
+## Link to the dataset: 
 https://drive.google.com/open?id=1hGuE0Drv3tbN-YNRDzJJMHfzKH6e4O2A
 
 ===========================================================================
@@ -13,7 +13,7 @@ Code for generating this dataset is at: https://github.com/chitralekha18/Automat
 
 Note: This dataset has been made available only for research purposes.
 
-### Description of the dataset: https://drive.google.com/open?id=1hGuE0Drv3tbN-YNRDzJJMHfzKH6e4O2A
+### Description of the dataset:
 The dataset folder contains Train and Test folders.
 These folders contain audio segments extracted from Smule's DAMP dataset.
 Train contains 35662 wavfiles, while Test contains 1697 wavfiles.
