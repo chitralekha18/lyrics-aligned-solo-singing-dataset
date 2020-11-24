@@ -1,6 +1,10 @@
 # Lyrics-aligned solo singing dataset
 
-## Link to the dataset: 
+## Link to the dataset:
+Zipped folder:
+https://drive.google.com/file/d/1Ss2GZRjPie3D28qUYT5-zDgwUTDCdINx/view?usp=sharing
+
+Unzipped folder:
 https://drive.google.com/open?id=1hGuE0Drv3tbN-YNRDzJJMHfzKH6e4O2A
 
 ===========================================================================
